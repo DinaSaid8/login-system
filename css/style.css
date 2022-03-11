@@ -1,0 +1,27 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+}
+#home{
+    background: rgb(36, 53, 63);
+    font-family: 'Titillium Web', sans-serif;
+}
+.wall{
+    background: rgb(36, 53, 63);
+}
+h1{
+    color: #17a2b8;
+}
+input{
+    background-color: transparent !important;
+    color: rgb(255, 255, 255) !important;
+}
+a{
+    text-decoration:none;
+}
+a:hover{
+    text-decoration: underline;
+}
+.group {
+    box-shadow: rgb(0, 0, 0) -5px 2px 54px -9px;
+}
